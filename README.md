@@ -1,2 +1,3 @@
 # Tech Buddies Podcast
-![Tech Buddies Podcast logo](https://github.com/TechBuddiesPod/TechBuddiesPod.github.io/blob/main/Tech%20buddies.png)
+Our Logo:
+![alt text](https://github.com/TechBuddiesPod/TechBuddiesPod.github.io/blob/main/Tech%20buddies.png "tech buddies podlogo" )
