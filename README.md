@@ -1,3 +1,2 @@
-<p align="center">
 # Tech Buddies Podcast
-</p
+![alt text](https://github.com/TechBuddiesPod/TechBuddiesPod.github.io/blob/main/Tech%20buddies.png)
